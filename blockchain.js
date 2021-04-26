@@ -48,3 +48,4 @@ function Blockchain() {
   }
 }
 module.exports = Blockchain;
+module.exports = Blockchain2;
